@@ -31,4 +31,5 @@ This project aims to improve accessibility and communication by translating sign
 
 ## Author
 
-Bitanya Woldemariam
+Bitanya Hasabework Woldemariam
+Afra Hamad Alremeithi
